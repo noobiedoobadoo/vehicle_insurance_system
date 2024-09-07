@@ -1,4 +1,4 @@
-# vehicle_insurance_system
+# Entity Relationship diagram
 ![image](https://github.com/user-attachments/assets/c061c75f-7738-4f81-a6e8-1492b64c876b)
 
 #database schema
